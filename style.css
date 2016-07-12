@@ -1,0 +1,10 @@
+.fixed-height{
+  height: 180px;
+}
+body{
+ background: #d9edf2; /* Old browsers */
+background: -moz-linear-gradient(top, #d9edf2 40%, #add9e4 68%, #f7fbfc 100%, #f7fbfc 102%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #d9edf2 40%,#add9e4 68%,#f7fbfc 100%,#f7fbfc 102%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #d9edf2 40%,#add9e4 68%,#f7fbfc 100%,#f7fbfc 102%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9edf2', 
+}
